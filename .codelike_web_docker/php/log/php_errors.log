@@ -1,0 +1,1408 @@
+[19-Mar-2022 11:08:30 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 18
+[19-Mar-2022 11:08:30 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 19
+[19-Mar-2022 11:08:30 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 22
+[19-Mar-2022 17:20:05 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/info.php on line 9
+[19-Mar-2022 17:41:01 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[19-Mar-2022 17:41:42 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[19-Mar-2022 17:41:47 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[19-Mar-2022 17:42:20 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[19-Mar-2022 17:42:29 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[19-Mar-2022 17:42:45 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[20-Mar-2022 09:22:29 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Undefined constant "name" in /var/www/html/confirm.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 20
+[20-Mar-2022 09:22:35 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Undefined constant "name" in /var/www/html/confirm.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 20
+[21-Mar-2022 10:16:41 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 22
+[21-Mar-2022 10:17:20 Asia/Tokyo] PHP Warning:  Undefined variable $bodoy in /var/www/html/send_email.php on line 14
+[21-Mar-2022 10:28:34 Asia/Tokyo] PHP Warning:  Undefined variable $to in /var/www/html/finish.php on line 3
+[21-Mar-2022 20:55:45 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/confirm.php on line 50
+[21-Mar-2022 20:55:45 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/confirm.php on line 52
+[21-Mar-2022 22:47:09 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/fix.php on line 21
+[21-Mar-2022 22:47:09 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/fix.php on line 22
+[21-Mar-2022 22:47:09 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/fix.php on line 23
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 21
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 23
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 25
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 27
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 29
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 33
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 34
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 35
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 36
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 37
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 42
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 43
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 44
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 45
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 46
+[22-Mar-2022 15:04:03 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token "," in /var/www/html/confirm_pgm.php on line 18
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 21
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 23
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 25
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 27
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 29
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 33
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 34
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 35
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 36
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 37
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 42
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 43
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 44
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 45
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 46
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 21
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 23
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 25
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 27
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 29
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 33
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 34
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 35
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 36
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 37
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 42
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 43
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 44
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 45
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 46
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 21
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 23
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 25
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 27
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 29
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 33
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 34
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 35
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 36
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 37
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 42
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 43
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 44
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 45
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 46
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 21
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 23
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 25
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 27
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 29
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 33
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 34
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 35
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 36
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 37
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 42
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 43
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 44
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 45
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 46
+[22-Mar-2022 15:47:53 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function coubt() in /var/www/html/confirm.php:50
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 50
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function coubt() in /var/www/html/confirm.php:50
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 50
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/fix.php on line 21
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/fix.php on line 22
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/fix.php on line 23
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/fix.php on line 27
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/fix.php on line 30
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/fix.php on line 33
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/fix.php on line 37
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function coubt() in /var/www/html/confirm.php:50
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 50
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/fix.php on line 21
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/fix.php on line 22
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/fix.php on line 23
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/fix.php on line 27
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/fix.php on line 30
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/fix.php on line 33
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/fix.php on line 37
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:50:38 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function coubt() in /var/www/html/confirm.php:50
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 50
+[22-Mar-2022 16:09:43 Asia/Tokyo] PHP Warning:  Undefined variable $errors in /var/www/html/confirm.php on line 50
+[22-Mar-2022 16:09:43 Asia/Tokyo] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/html/confirm.php:50
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 50
+[22-Mar-2022 16:14:45 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/confirm.php on line 24
+[22-Mar-2022 16:14:45 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/confirm.php on line 25
+[22-Mar-2022 16:14:45 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/confirm.php on line 26
+[30-Mar-2022 18:31:40 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /var/www/html/index.php:3
+Stack trace:
+#0 /var/www/html/index.php(3): mysqli_connect('localhost', 'root', 'password', 'codelike_web_my...')
+#1 {main}
+  thrown in /var/www/html/index.php on line 3
+[30-Mar-2022 18:31:41 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /var/www/html/index.php:3
+Stack trace:
+#0 /var/www/html/index.php(3): mysqli_connect('localhost', 'root', 'password', 'codelike_web_my...')
+#1 {main}
+  thrown in /var/www/html/index.php on line 3
+[30-Mar-2022 18:32:13 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /var/www/html/index.php:3
+Stack trace:
+#0 /var/www/html/index.php(3): mysqli_connect('localhost', 'roota', 'password', 'codelike_web_my...')
+#1 {main}
+  thrown in /var/www/html/index.php on line 3
+[30-Mar-2022 18:32:13 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /var/www/html/index.php:3
+Stack trace:
+#0 /var/www/html/index.php(3): mysqli_connect('localhost', 'roota', 'password', 'codelike_web_my...')
+#1 {main}
+  thrown in /var/www/html/index.php on line 3
+[30-Mar-2022 18:32:17 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /var/www/html/index.php:3
+Stack trace:
+#0 /var/www/html/index.php(3): mysqli_connect('localhost', 'roota', 'password', 'codelike_web_my...')
+#1 {main}
+  thrown in /var/www/html/index.php on line 3
+[30-Mar-2022 18:32:17 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /var/www/html/index.php:3
+Stack trace:
+#0 /var/www/html/index.php(3): mysqli_connect('localhost', 'roota', 'password', 'codelike_web_my...')
+#1 {main}
+  thrown in /var/www/html/index.php on line 3
+[30-Mar-2022 18:33:05 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'codelike_web_mysql' in /var/www/html/index.php:3
+Stack trace:
+#0 /var/www/html/index.php(3): mysqli_connect('db', 'root', 'password', 'codelike_web_my...')
+#1 {main}
+  thrown in /var/www/html/index.php on line 3
+[30-Mar-2022 18:33:06 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'codelike_web_mysql' in /var/www/html/index.php:3
+Stack trace:
+#0 /var/www/html/index.php(3): mysqli_connect('db', 'root', 'password', 'codelike_web_my...')
+#1 {main}
+  thrown in /var/www/html/index.php on line 3
+[31-Mar-2022 10:56:56 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'codelike_web_mysql' in /var/www/html/index.php:3
+Stack trace:
+#0 /var/www/html/index.php(3): mysqli_connect('db', 'root', 'password', 'codelike_web_my...')
+#1 {main}
+  thrown in /var/www/html/index.php on line 3
+[31-Mar-2022 11:28:16 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/confirm.php:17
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 17
+[31-Mar-2022 11:34:50 Asia/Tokyo] PHP Warning:  require_once(model.php): Failed to open stream: No such file or directory in /var/www/html/index.php on line 2
+[31-Mar-2022 11:34:50 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Failed opening required 'model.php' (include_path='.:/usr/local/lib/php') in /var/www/html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 2
+[31-Mar-2022 11:35:23 Asia/Tokyo] PHP Warning:  require_once(model/model.php): Failed to open stream: No such file or directory in /var/www/html/index.php on line 2
+[31-Mar-2022 11:35:23 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Failed opening required 'model/model.php' (include_path='.:/usr/local/lib/php') in /var/www/html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 2
+[31-Mar-2022 13:08:57 Asia/Tokyo] PHP Warning:  include_once(views/confirm_view.php): Failed to open stream: No such file or directory in /var/www/html/controller/confirm.php on line 46
+[31-Mar-2022 13:08:57 Asia/Tokyo] PHP Warning:  include_once(): Failed opening 'views/confirm_view.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/controller/confirm.php on line 46
+[31-Mar-2022 13:10:18 Asia/Tokyo] PHP Warning:  include_once(views/confirm_view.php): Failed to open stream: No such file or directory in /var/www/html/controller/confirm.php on line 46
+[31-Mar-2022 13:10:18 Asia/Tokyo] PHP Warning:  include_once(): Failed opening 'views/confirm_view.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/controller/confirm.php on line 46
+[31-Mar-2022 13:10:53 Asia/Tokyo] PHP Warning:  include_once(views/confirm_view.php): Failed to open stream: No such file or directory in /var/www/html/controller/confirm.php on line 46
+[31-Mar-2022 13:10:53 Asia/Tokyo] PHP Warning:  include_once(): Failed opening 'views/confirm_view.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/controller/confirm.php on line 46
+[31-Mar-2022 13:11:50 Asia/Tokyo] PHP Warning:  require_once(model/model.php): Failed to open stream: No such file or directory in /var/www/html/controller/confirm.php on line 3
+[31-Mar-2022 13:11:50 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Failed opening required 'model/model.php' (include_path='.:/usr/local/lib/php') in /var/www/html/controller/confirm.php:3
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/controller/confirm.php on line 3
+[31-Mar-2022 13:12:03 Asia/Tokyo] PHP Warning:  require_once(../model/model.php): Failed to open stream: No such file or directory in /var/www/html/controller/confirm.php on line 3
+[31-Mar-2022 13:12:03 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Failed opening required '../model/model.php' (include_path='.:/usr/local/lib/php') in /var/www/html/controller/confirm.php:3
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/controller/confirm.php on line 3
+[31-Mar-2022 13:14:48 Asia/Tokyo] PHP Warning:  include_once(views/confirm_view.php): Failed to open stream: No such file or directory in /var/www/html/controller/confirm.php on line 46
+[31-Mar-2022 13:14:48 Asia/Tokyo] PHP Warning:  include_once(): Failed opening 'views/confirm_view.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/controller/confirm.php on line 46
+[31-Mar-2022 13:51:25 Asia/Tokyo] PHP Warning:  Undefined variable $s_name in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 13:51:36 Asia/Tokyo] PHP Warning:  Undefined variable $s_name in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 13:51:43 Asia/Tokyo] PHP Warning:  Undefined variable $s_name in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 14:07:17 Asia/Tokyo] PHP Warning:  Undefined variable $s_name in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:08:43 Asia/Tokyo] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /var/www/html/controller/confirm.php on line 2
+[31-Mar-2022 14:08:43 Asia/Tokyo] PHP Warning:  require_once(../model/model.php): Failed to open stream: No such file or directory in /var/www/html/controller/confirm.php on line 4
+[31-Mar-2022 14:08:43 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Failed opening required '../model/model.php' (include_path='.:/usr/local/lib/php') in /var/www/html/controller/confirm.php:4
+Stack trace:
+#0 /var/www/html/index.php(6): require_once()
+#1 {main}
+  thrown in /var/www/html/controller/confirm.php on line 4
+[31-Mar-2022 14:10:33 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token "if" in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:10:34 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token "if" in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:11:18 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:11:18 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:12:25 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:12:25 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:12:25 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 26
+[31-Mar-2022 14:12:25 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 26
+[31-Mar-2022 14:12:25 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 14:12:25 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 14:12:25 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 33
+[31-Mar-2022 14:12:25 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 33
+[31-Mar-2022 14:13:12 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:13:12 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:13:12 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 26
+[31-Mar-2022 14:13:12 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 26
+[31-Mar-2022 14:13:12 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 14:13:12 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 14:13:12 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 33
+[31-Mar-2022 14:13:12 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 33
+[31-Mar-2022 14:13:13 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:13:13 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:13:13 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 26
+[31-Mar-2022 14:13:13 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 26
+[31-Mar-2022 14:13:13 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 14:13:13 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 14:13:13 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 33
+[31-Mar-2022 14:13:13 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 33
+[31-Mar-2022 14:13:41 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:13:41 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 14:13:41 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 26
+[31-Mar-2022 14:13:41 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 26
+[31-Mar-2022 14:13:41 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 14:13:41 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 14:13:41 Asia/Tokyo] PHP Warning:  Undefined variable $_SEEION in /var/www/html/views/index_view.php on line 33
+[31-Mar-2022 14:13:41 Asia/Tokyo] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/views/index_view.php on line 33
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/controller/finish.php on line 17
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/controller/finish.php on line 18
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/finish.php on line 19
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/controller/finish.php on line 19
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/controller/finish.php on line 19
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Deprecated:  mb_send_mail(): Passing null to parameter #1 ($to) of type string is deprecated in /var/www/html/controller/finish.php on line 21
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Deprecated:  mb_send_mail(): Passing null to parameter #2 ($subject) of type string is deprecated in /var/www/html/controller/finish.php on line 21
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/finish.php on line 33
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/controller/finish.php on line 34
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/controller/finish.php on line 35
+[31-Mar-2022 14:37:29 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/controller/finish.php on line 36
+[31-Mar-2022 14:55:48 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/controller/finish.php on line 16
+[31-Mar-2022 15:00:58 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/controller/finish.php on line 14
+[31-Mar-2022 15:02:48 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/controller/finish.php on line 14
+[31-Mar-2022 15:02:50 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/controller/finish.php on line 14
+[31-Mar-2022 15:16:19 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function has_error() in /var/www/html/controller/confirm.php:25
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/controller/confirm.php on line 25
+[31-Mar-2022 15:28:07 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token "if" in /var/www/html/index.php on line 8
+[31-Mar-2022 16:06:40 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token "=" in /var/www/html/controller/confirm.php on line 18
+[31-Mar-2022 16:20:05 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function comment_check() in /var/www/html/controller/confirm.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/controller/confirm.php on line 10
+[31-Mar-2022 16:21:41 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function varidate() in /var/www/html/controller/confirm.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/controller/confirm.php on line 10
+[31-Mar-2022 16:23:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function varidate() in /var/www/html/controller/confirm.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/controller/confirm.php on line 10
+[31-Mar-2022 16:25:42 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function a() in /var/www/html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 6
+[31-Mar-2022 16:25:44 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function a() in /var/www/html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 6
+[31-Mar-2022 16:25:44 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function a() in /var/www/html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 6
+[31-Mar-2022 16:25:45 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function a() in /var/www/html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 6
+[31-Mar-2022 16:28:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function varidate() in /var/www/html/controller/confirm.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/controller/confirm.php on line 10
+[31-Mar-2022 16:29:33 Asia/Tokyo] PHP Warning:  Undefined variable $errors in /var/www/html/index.php on line 27
+[31-Mar-2022 16:30:20 Asia/Tokyo] PHP Warning:  Undefined variable $errors in /var/www/html/index.php on line 27
+[31-Mar-2022 16:30:22 Asia/Tokyo] PHP Warning:  Undefined variable $errors in /var/www/html/index.php on line 27
+[31-Mar-2022 16:30:28 Asia/Tokyo] PHP Warning:  Undefined variable $errors in /var/www/html/index.php on line 27
+[31-Mar-2022 16:30:31 Asia/Tokyo] PHP Warning:  Undefined variable $errors in /var/www/html/index.php on line 27
+[31-Mar-2022 18:05:30 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/index.php on line 14
+[31-Mar-2022 18:05:57 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/index.php on line 14
+[31-Mar-2022 18:06:00 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/index.php on line 14
+[31-Mar-2022 18:06:28 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/index.php on line 14
+[31-Mar-2022 18:07:54 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token ")" in /var/www/html/index.php on line 13
+[31-Mar-2022 18:07:58 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token ")" in /var/www/html/index.php on line 13
+[31-Mar-2022 18:16:16 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[31-Mar-2022 18:16:16 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[31-Mar-2022 18:16:22 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[31-Mar-2022 18:16:22 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[31-Mar-2022 21:58:40 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 36
+[31-Mar-2022 21:58:40 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 21:58:40 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[31-Mar-2022 21:58:40 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[31-Mar-2022 21:58:40 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[31-Mar-2022 21:58:48 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 36
+[31-Mar-2022 21:58:48 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 21:58:48 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[31-Mar-2022 21:58:48 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[31-Mar-2022 21:58:48 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[31-Mar-2022 21:58:49 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 36
+[31-Mar-2022 21:58:49 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 21:58:49 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[31-Mar-2022 21:58:49 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[31-Mar-2022 21:58:49 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[31-Mar-2022 22:00:55 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 36
+[31-Mar-2022 22:00:55 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 38
+[31-Mar-2022 22:00:55 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 40
+[31-Mar-2022 22:00:55 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 22:00:55 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[31-Mar-2022 22:00:55 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[31-Mar-2022 22:00:55 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[31-Mar-2022 22:01:35 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 23
+[31-Mar-2022 22:01:35 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[31-Mar-2022 22:01:35 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[31-Mar-2022 22:01:35 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 22:01:35 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[31-Mar-2022 22:01:35 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[31-Mar-2022 22:01:35 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[31-Mar-2022 22:04:41 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 35
+[31-Mar-2022 22:04:41 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 37
+[31-Mar-2022 22:04:41 Asia/Tokyo] PHP Warning:  Undefined array key "titile" in /var/www/html/index.php on line 39
+[31-Mar-2022 22:04:41 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 22:04:41 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[31-Mar-2022 22:04:41 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[31-Mar-2022 22:04:41 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[31-Mar-2022 22:05:06 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 22:05:06 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[31-Mar-2022 22:05:06 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[31-Mar-2022 22:05:06 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[31-Mar-2022 22:05:34 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[31-Mar-2022 22:05:34 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[31-Mar-2022 22:05:34 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[31-Mar-2022 22:05:34 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[31-Mar-2022 22:05:58 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/controller/confirm.php on line 23
+[31-Mar-2022 22:05:58 Asia/Tokyo] PHP Deprecated:  ctype_digit(): Argument of type null will be interpreted as string in the future in /var/www/html/controller/confirm.php on line 23
+[31-Mar-2022 23:00:36 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token "}" in /var/www/html/controller/finish.php on line 41
+[31-Mar-2022 23:00:57 Asia/Tokyo] PHP Warning:  Undefined variable $mysqli in /var/www/html/controller/finish.php on line 25
+[31-Mar-2022 23:00:57 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /var/www/html/controller/finish.php:25
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/controller/finish.php on line 25
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 23
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 23
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[01-Apr-2022 10:28:09 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[01-Apr-2022 10:28:23 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/controller/confirm.php on line 23
+[01-Apr-2022 10:28:23 Asia/Tokyo] PHP Deprecated:  ctype_digit(): Argument of type null will be interpreted as string in the future in /var/www/html/controller/confirm.php on line 23
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 23
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 23
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/views/index_view.php on line 29
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/views/index_view.php on line 35
+[01-Apr-2022 10:32:42 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/views/index_view.php on line 39
+[01-Apr-2022 10:34:58 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 23
+[01-Apr-2022 10:34:58 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[01-Apr-2022 10:34:58 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 10:34:59 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 23
+[01-Apr-2022 10:34:59 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[01-Apr-2022 10:34:59 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 10:36:41 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/controller/confirm.php on line 23
+[01-Apr-2022 10:36:41 Asia/Tokyo] PHP Deprecated:  ctype_digit(): Argument of type null will be interpreted as string in the future in /var/www/html/controller/confirm.php on line 23
+[01-Apr-2022 10:36:46 Asia/Tokyo] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /var/www/html/controller/finish.php on line 26
+[01-Apr-2022 11:32:27 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/finish.php on line 34
+[01-Apr-2022 11:32:27 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/controller/finish.php on line 34
+[01-Apr-2022 11:32:27 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/controller/finish.php on line 34
+[01-Apr-2022 11:32:27 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/controller/finish.php on line 34
+[01-Apr-2022 11:32:27 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '��んにちは, , , , )' at line 1 in /var/www/html/controller/finish.php:35
+Stack trace:
+#0 /var/www/html/controller/finish.php(35): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 {main}
+  thrown in /var/www/html/controller/finish.php on line 35
+[01-Apr-2022 11:32:56 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '��感想, 片岡　舞菜, maina@email.com, 1234567' at line 1 in /var/www/html/controller/finish.php:35
+Stack trace:
+#0 /var/www/html/controller/finish.php(35): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 {main}
+  thrown in /var/www/html/controller/finish.php on line 35
+[01-Apr-2022 11:40:50 Asia/Tokyo] PHP Warning:  Undefined variable $query in /var/www/html/controller/finish.php on line 35
+[01-Apr-2022 11:40:50 Asia/Tokyo] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /var/www/html/controller/finish.php on line 35
+[01-Apr-2022 11:40:50 Asia/Tokyo] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /var/www/html/controller/finish.php:35
+Stack trace:
+#0 /var/www/html/controller/finish.php(35): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /var/www/html/controller/finish.php on line 35
+[01-Apr-2022 12:38:12 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:12 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:27 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:28 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:28 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:29 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:29 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:30 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:31 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:31 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:32 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:38:32 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:39:42 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:39:42 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:39:43 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:39:44 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /var/www/html/model/model.php on line 9
+[01-Apr-2022 12:42:43 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _SESSION in /var/www/html/model/model.php on line 10
+[01-Apr-2022 12:42:43 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _SESSION in /var/www/html/model/model.php on line 10
+[01-Apr-2022 12:42:44 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _SESSION in /var/www/html/model/model.php on line 10
+[01-Apr-2022 12:42:44 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _SESSION in /var/www/html/model/model.php on line 10
+[01-Apr-2022 12:42:55 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _SESSION in /var/www/html/model/model.php on line 10
+[01-Apr-2022 12:42:55 Asia/Tokyo] PHP Fatal error:  Cannot re-assign auto-global variable _SESSION in /var/www/html/model/model.php on line 10
+[01-Apr-2022 13:30:55 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:36:14 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:36:15 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:36:36 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:36:54 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:36:55 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:36:56 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:37:28 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:37:30 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:37:30 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:37:35 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:37:36 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:37:36 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:37:36 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:39:02 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 5
+[01-Apr-2022 13:39:02 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/index.php on line 6
+[01-Apr-2022 13:39:02 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/index.php on line 7
+[01-Apr-2022 13:39:02 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/index.php on line 8
+[01-Apr-2022 13:39:02 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/index.php on line 9
+[01-Apr-2022 13:39:02 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 5
+[01-Apr-2022 13:39:02 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/index.php on line 6
+[01-Apr-2022 13:39:02 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/index.php on line 7
+[01-Apr-2022 13:39:02 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/index.php on line 8
+[01-Apr-2022 13:39:02 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/index.php on line 9
+[01-Apr-2022 13:40:13 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 13
+[01-Apr-2022 13:40:13 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/index.php on line 14
+[01-Apr-2022 13:40:13 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/index.php on line 15
+[01-Apr-2022 13:40:13 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/index.php on line 16
+[01-Apr-2022 13:40:13 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/index.php on line 17
+[01-Apr-2022 13:40:14 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/index.php on line 13
+[01-Apr-2022 13:40:14 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/index.php on line 14
+[01-Apr-2022 13:40:14 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/index.php on line 15
+[01-Apr-2022 13:40:14 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/index.php on line 16
+[01-Apr-2022 13:40:14 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/index.php on line 17
+[01-Apr-2022 13:41:24 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/controller/confirm.php on line 17
+[01-Apr-2022 13:45:07 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 23
+[01-Apr-2022 13:45:07 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[01-Apr-2022 13:45:07 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 13:45:07 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 23
+[01-Apr-2022 13:45:07 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 24
+[01-Apr-2022 13:45:07 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 14:15:38 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/views/index_view.php on line 35
+[01-Apr-2022 14:15:38 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/model/model.php on line 6
+[01-Apr-2022 14:15:38 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/views/index_view.php on line 38
+[01-Apr-2022 14:15:38 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/model/model.php on line 6
+[01-Apr-2022 14:15:38 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/views/index_view.php on line 35
+[01-Apr-2022 14:15:38 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/model/model.php on line 6
+[01-Apr-2022 14:15:38 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/views/index_view.php on line 38
+[01-Apr-2022 14:15:38 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/model/model.php on line 6
+[01-Apr-2022 15:14:58 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:14:58 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:14:58 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 28
+[01-Apr-2022 15:14:58 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:32
+Stack trace:
+#0 /var/www/html/index.php(63): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 15:14:58 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:14:58 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:14:58 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 28
+[01-Apr-2022 15:14:58 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:32
+Stack trace:
+#0 /var/www/html/index.php(63): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 15:15:20 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:15:20 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:15:20 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 28
+[01-Apr-2022 15:15:20 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:32
+Stack trace:
+#0 /var/www/html/index.php(63): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 15:15:20 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:15:20 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:15:20 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 28
+[01-Apr-2022 15:15:20 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:32
+Stack trace:
+#0 /var/www/html/index.php(63): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 15:16:53 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:16:53 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:16:53 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 28
+[01-Apr-2022 15:16:53 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:32
+Stack trace:
+#0 /var/www/html/index.php(37): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 15:16:53 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:16:53 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:16:53 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 28
+[01-Apr-2022 15:16:53 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:32
+Stack trace:
+#0 /var/www/html/index.php(37): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 15:17:52 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:17:52 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:17:52 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:17:52 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:31
+Stack trace:
+#0 /var/www/html/index.php(37): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 31
+[01-Apr-2022 15:17:53 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:17:53 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:17:53 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:17:53 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:31
+Stack trace:
+#0 /var/www/html/index.php(37): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 31
+[01-Apr-2022 15:18:52 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:25
+Stack trace:
+#0 /var/www/html/index.php(37): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:18:52 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:25
+Stack trace:
+#0 /var/www/html/index.php(37): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:20:31 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:20:31 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:20:31 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:20:31 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:31
+Stack trace:
+#0 /var/www/html/index.php(37): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 31
+[01-Apr-2022 15:20:31 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:20:31 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:20:31 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:20:31 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /var/www/html/views/index_view.php:31
+Stack trace:
+#0 /var/www/html/index.php(37): include_once()
+#1 {main}
+  thrown in /var/www/html/views/index_view.php on line 31
+[01-Apr-2022 15:21:00 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:21:00 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:21:00 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:21:00 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:21:00 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:21:00 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:22:09 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:22:09 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:22:09 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:22:09 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:22:09 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:22:09 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 25
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 26
+[01-Apr-2022 15:22:11 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 27
+[01-Apr-2022 16:07:29 Asia/Tokyo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function selected(), 1 passed in /var/www/html/index.php on line 22 and exactly 4 expected in /var/www/html/model/model.php:41
+Stack trace:
+#0 /var/www/html/index.php(22): selected('\xE3\x81\x94\xE6\x84\x9F\xE6\x83\xB3')
+#1 {main}
+  thrown in /var/www/html/model/model.php on line 41
+[01-Apr-2022 16:07:31 Asia/Tokyo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function selected(), 1 passed in /var/www/html/index.php on line 22 and exactly 4 expected in /var/www/html/model/model.php:41
+Stack trace:
+#0 /var/www/html/index.php(22): selected('\xE3\x81\x94\xE6\x84\x9F\xE6\x83\xB3')
+#1 {main}
+  thrown in /var/www/html/model/model.php on line 41
+[01-Apr-2022 16:07:31 Asia/Tokyo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function selected(), 1 passed in /var/www/html/index.php on line 22 and exactly 4 expected in /var/www/html/model/model.php:41
+Stack trace:
+#0 /var/www/html/index.php(22): selected('\xE3\x81\x94\xE6\x84\x9F\xE6\x83\xB3')
+#1 {main}
+  thrown in /var/www/html/model/model.php on line 41
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/index.php on line 22
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/index.php on line 22
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/index.php on line 22
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 4
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 5
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 5
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 30
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 31
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/index.php on line 22
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/index.php on line 22
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/index.php on line 22
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 4
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 5
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 5
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/views/index_view.php on line 30
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/views/index_view.php on line 31
+[01-Apr-2022 16:14:19 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/views/index_view.php on line 32
+[01-Apr-2022 16:23:24 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function error_message() in /var/www/html/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 12
+[01-Apr-2022 16:23:24 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function error_message() in /var/www/html/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 12
+[01-Apr-2022 16:29:51 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /var/www/html/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 39
+[01-Apr-2022 16:29:51 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /var/www/html/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 39
+[01-Apr-2022 20:17:26 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token "if" in /var/www/html/model/model.php on line 125
+[01-Apr-2022 20:17:26 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token "if" in /var/www/html/model/model.php on line 125
+[01-Apr-2022 20:56:48 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '��の他, 片岡　舞菜, taro@gmail.com, 123456789' at line 1 in /var/www/html/model/model.php:159
+Stack trace:
+#0 /var/www/html/model/model.php(159): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 /var/www/html/controller/finish.php(11): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 159
+[01-Apr-2022 20:58:46 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '��の他, 片岡　舞菜, taro@gmail.com, 123456789' at line 1 in /var/www/html/model/model.php:159
+Stack trace:
+#0 /var/www/html/model/model.php(159): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 /var/www/html/controller/finish.php(11): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 159
+[01-Apr-2022 20:58:47 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '��の他, 片岡　舞菜, taro@gmail.com, 123456789' at line 1 in /var/www/html/model/model.php:159
+Stack trace:
+#0 /var/www/html/model/model.php(159): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 /var/www/html/controller/finish.php(11): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 159
+[01-Apr-2022 21:08:50 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '��の他, 片岡　舞菜, taro@gmail.com, 123456789' at line 1 in /var/www/html/model/model.php:159
+Stack trace:
+#0 /var/www/html/model/model.php(159): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 /var/www/html/controller/finish.php(10): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 159
+[01-Apr-2022 21:09:19 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '��の他, 片岡　舞菜, taro@gmail.com, 123456789' at line 1 in /var/www/html/model/model.php:159
+Stack trace:
+#0 /var/www/html/model/model.php(159): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 /var/www/html/controller/finish.php(10): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 159
+[01-Apr-2022 21:10:45 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '��の他, 片岡　舞菜, taro@gmail.com, 123456789' at line 1 in /var/www/html/model/model.php:160
+Stack trace:
+#0 /var/www/html/model/model.php(160): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 /var/www/html/controller/finish.php(10): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 160
+[01-Apr-2022 21:19:45 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''info' (title, name, email, phone, body) VALUES (その他, 片�' at line 1 in /var/www/html/model/model.php:160
+Stack trace:
+#0 /var/www/html/model/model.php(160): mysqli_query(Object(mysqli), 'INSERT INTO 'in...')
+#1 /var/www/html/controller/finish.php(10): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 160
+[01-Apr-2022 21:19:46 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''info' (title, name, email, phone, body) VALUES (その他, 片�' at line 1 in /var/www/html/model/model.php:160
+Stack trace:
+#0 /var/www/html/model/model.php(160): mysqli_query(Object(mysqli), 'INSERT INTO 'in...')
+#1 /var/www/html/controller/finish.php(10): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 160
+[01-Apr-2022 21:19:59 Asia/Tokyo] PHP Warning:  Undefined variable $query in /var/www/html/model/model.php on line 160
+[01-Apr-2022 21:19:59 Asia/Tokyo] PHP Deprecated:  mysqli_query(): Passing null to parameter #2 ($query) of type string is deprecated in /var/www/html/model/model.php on line 160
+[01-Apr-2022 21:19:59 Asia/Tokyo] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /var/www/html/model/model.php:160
+Stack trace:
+#0 /var/www/html/model/model.php(160): mysqli_query(Object(mysqli), '')
+#1 /var/www/html/controller/finish.php(10): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 160
+[01-Apr-2022 21:23:27 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/model/model.php on line 165
+[01-Apr-2022 21:23:27 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/model/model.php on line 165
+[01-Apr-2022 21:23:27 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/model/model.php on line 165
+[01-Apr-2022 21:23:27 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/model/model.php on line 165
+[01-Apr-2022 21:23:27 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/model/model.php on line 165
+[01-Apr-2022 21:23:27 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , )' at line 1 in /var/www/html/model/model.php:166
+Stack trace:
+#0 /var/www/html/model/model.php(166): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 /var/www/html/controller/finish.php(10): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 166
+[01-Apr-2022 21:24:15 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , )' at line 1 in /var/www/html/model/model.php:166
+Stack trace:
+#0 /var/www/html/model/model.php(166): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 /var/www/html/controller/finish.php(10): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 166
+[01-Apr-2022 22:41:26 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 136
+[01-Apr-2022 22:41:26 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 138
+[01-Apr-2022 22:41:26 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 138
+[01-Apr-2022 22:41:26 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 138
+[01-Apr-2022 22:41:26 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 138
+[01-Apr-2022 22:41:26 Asia/Tokyo] PHP Deprecated:  mb_send_mail(): Passing null to parameter #1 ($to) of type string is deprecated in /var/www/html/model/model.php on line 140
+[01-Apr-2022 22:41:26 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:43:28 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 139
+[01-Apr-2022 22:43:28 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[01-Apr-2022 22:43:28 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 139
+[01-Apr-2022 22:43:28 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 139
+[01-Apr-2022 22:43:28 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:45:18 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:50:38 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:50:38 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:50:39 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:50:40 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:50:41 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:50:41 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:50:47 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/controller/confirm.php on line 9
+[01-Apr-2022 22:50:47 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:50:51 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:50:51 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:50:55 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/controller/confirm.php on line 9
+[01-Apr-2022 22:50:55 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:51:01 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:51:01 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 22:51:33 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/controller/confirm.php on line 9
+[01-Apr-2022 22:51:33 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 23:00:52 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 23:02:56 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 23:02:56 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 23:02:57 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 23:02:57 Asia/Tokyo] PHP Warning:  Undefined variable $csrf_token in /var/www/html/views/index_view.php on line 20
+[01-Apr-2022 23:03:47 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:03:47 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:03:47 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:03:47 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:03:47 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:03:47 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:03:47 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:03:47 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:03:47 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:03:47 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:04:56 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:04:56 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:04:56 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:04:56 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:04:56 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:04:56 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:04:56 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:04:56 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:04:56 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:04:56 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:04:58 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:04:58 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:04:58 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:04:58 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:04:58 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:04:58 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:04:58 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:04:58 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:04:58 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:04:58 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:05:07 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:05:07 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:05:07 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:05:07 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:05:07 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:05:07 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:05:07 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:05:07 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:05:07 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:05:07 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:05:15 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:05:15 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:05:15 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:05:15 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:05:15 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:05:16 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:05:16 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:05:16 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:05:16 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:05:16 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:05:53 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:05:53 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:05:53 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:05:53 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:05:53 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:05:53 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:05:53 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:05:53 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:05:53 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:05:53 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:06:06 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:06:06 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:06:06 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:06:06 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:06:06 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:07:53 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:07:53 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:07:53 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:07:53 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:07:53 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:07:53 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:07:53 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:07:53 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:07:53 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:07:53 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:07:57 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:07:57 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:07:57 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:07:57 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:07:57 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:07:57 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:07:57 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:07:57 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:07:57 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:07:57 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:08:00 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:08:00 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:08:00 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:08:00 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:08:00 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:09:42 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:09:42 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:09:42 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:09:42 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:09:42 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:09:42 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:09:42 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:09:42 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:09:42 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:09:42 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:09:45 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:09:45 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:09:45 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:09:45 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:09:45 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:11:25 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:11:25 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:11:25 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:11:25 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:11:25 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:11:25 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:11:25 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:11:25 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:11:25 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:11:25 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:11:26 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:11:26 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:11:26 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:11:26 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:11:26 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:11:26 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:11:26 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:11:26 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:11:26 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:11:26 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:11:39 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:11:39 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:11:39 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:11:39 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:11:39 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:11:40 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:11:40 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:11:40 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:11:40 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:11:40 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:13:07 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:13:07 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:13:07 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:13:07 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:13:07 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:13:07 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:13:07 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:13:07 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:13:07 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:13:07 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:13:15 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:13:15 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:13:15 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:13:15 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:13:15 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:15:40 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:15:40 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:15:40 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:15:40 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:15:40 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:15:40 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:15:40 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:15:40 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:15:40 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:15:40 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:16:10 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:16:10 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:16:10 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:16:10 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:16:10 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:16:10 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:16:10 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:16:10 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:16:10 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:16:10 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:16:13 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:16:13 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:16:13 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:16:13 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:16:13 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:21:55 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:21:55 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:21:55 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:21:55 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:21:55 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:21:55 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 21
+[01-Apr-2022 23:21:55 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 22
+[01-Apr-2022 23:21:55 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 23
+[01-Apr-2022 23:21:55 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 24
+[01-Apr-2022 23:21:55 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 25
+[01-Apr-2022 23:22:10 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'phone' at row 1 in /var/www/html/model/model.php:166
+Stack trace:
+#0 /var/www/html/model/model.php(166): mysqli_query(Object(mysqli), 'INSERT INTO inf...')
+#1 /var/www/html/controller/finish.php(10): register_db()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 166
+[02-Apr-2022 22:01:54 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:01:54 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:01:54 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:01:57 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:01:57 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:02:03 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:02:04 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:02:04 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:02:06 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:02:07 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:02:07 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:02:49 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 25
+[02-Apr-2022 22:02:49 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 25
+[02-Apr-2022 22:02:52 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 25
+[02-Apr-2022 22:02:53 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 25
+[02-Apr-2022 22:02:53 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 25
+[02-Apr-2022 22:04:30 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[02-Apr-2022 22:04:30 Asia/Tokyo] PHP Warning:  foreach() argument must be of type array|object, string given in /var/www/html/views/input_view.php on line 24
+[03-Apr-2022 09:14:34 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:14:34 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:14:34 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:14:35 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:14:35 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:14:35 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:14:35 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:14:35 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:14:35 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:14:35 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:14:37 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:14:37 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:14:37 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:14:37 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:14:37 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:14:37 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:14:37 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:14:37 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:14:37 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:14:37 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:14:39 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:14:39 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:14:39 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:14:39 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:14:39 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:14:39 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:14:39 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:14:39 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:14:39 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:14:39 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:15:18 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:15:18 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:15:18 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:15:18 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:15:18 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:15:18 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:15:18 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:15:18 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:15:18 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:15:18 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:15:20 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:15:20 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:15:20 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:15:20 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:15:20 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:15:20 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:15:20 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:15:20 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:15:20 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:15:20 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:15:39 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:15:39 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:15:39 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:15:39 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:15:39 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:15:39 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:15:39 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:15:39 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:15:39 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:15:39 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:16:04 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token ";" in /var/www/html/views/confirm_view.php on line 14
+[03-Apr-2022 09:17:43 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:17:44 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:17:44 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:17:44 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:17:44 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:17:44 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:17:44 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:17:44 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:17:44 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:17:44 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:17:45 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:17:45 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:17:45 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:17:45 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:17:45 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:17:45 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:17:45 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:17:45 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:17:45 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:17:45 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:17:46 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:17:46 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:17:46 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:17:46 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:17:46 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:17:46 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:17:46 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:17:46 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:17:46 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:17:46 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:17:48 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 131
+[03-Apr-2022 09:17:48 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 132
+[03-Apr-2022 09:17:48 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 133
+[03-Apr-2022 09:17:48 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 134
+[03-Apr-2022 09:17:48 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 135
+[03-Apr-2022 09:17:48 Asia/Tokyo] PHP Warning:  Undefined array key "title" in /var/www/html/model/model.php on line 139
+[03-Apr-2022 09:17:48 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/model/model.php on line 140
+[03-Apr-2022 09:17:48 Asia/Tokyo] PHP Warning:  Undefined array key "email" in /var/www/html/model/model.php on line 141
+[03-Apr-2022 09:17:48 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/model/model.php on line 142
+[03-Apr-2022 09:17:48 Asia/Tokyo] PHP Warning:  Undefined array key "body" in /var/www/html/model/model.php on line 143
+[03-Apr-2022 09:20:09 Asia/Tokyo] PHP Warning:  Array to string conversion in /var/www/html/views/confirm_view.php on line 1
+[03-Apr-2022 09:20:09 Asia/Tokyo] PHP Warning:  Undefined variable $Array in /var/www/html/views/confirm_view.php on line 1
+[03-Apr-2022 09:52:16 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'contact' in /var/www/html/model/model.php:46
+Stack trace:
+#0 /var/www/html/model/model.php(46): mysqli_connect('db', 'root', 'password', 'contact')
+#1 /var/www/html/controllers/contact.php(6): db_connect()
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 46
+[03-Apr-2022 09:53:21 Asia/Tokyo] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'title' in 'field list' in /var/www/html/model/model.php:57
+Stack trace:
+#0 /var/www/html/model/model.php(57): mysqli_query(Object(mysqli), 'insert into con...')
+#1 /var/www/html/controllers/contact.php(10): insertContact(Object(mysqli))
+#2 {main}
+  thrown in /var/www/html/model/model.php on line 57
+[03-Apr-2022 09:54:16 Asia/Tokyo] PHP Warning:  include_once(../views/contact_view.php): Failed to open stream: No such file or directory in /var/www/html/controllers/contact.php on line 13
+[03-Apr-2022 09:54:16 Asia/Tokyo] PHP Warning:  include_once(): Failed opening '../views/contact_view.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/controllers/contact.php on line 13
+[03-Apr-2022 10:05:18 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:05:18 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:05:33 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:05:38 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:05:38 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:05:39 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:05:42 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:05:42 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:06:13 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:06:13 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:06:30 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:06:31 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:08:25 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:08:26 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:09:12 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:09:19 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:42:34 Asia/Tokyo] PHP Parse error:  Unclosed '{' on line 27 in /var/www/html/model/model.php on line 94
+[03-Apr-2022 10:42:34 Asia/Tokyo] PHP Parse error:  Unclosed '{' on line 27 in /var/www/html/model/model.php on line 94
+[03-Apr-2022 10:46:58 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:46:58 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:47:03 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:47:03 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:47:12 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:47:12 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:49:21 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:49:21 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:50:02 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:50:04 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:50:29 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:50:30 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:50:30 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 10:50:37 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:09:43 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:09:46 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:09:46 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:09:53 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:10:54 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:12:40 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:12:40 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:12:41 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:12:42 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:12:43 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:12:43 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:13:04 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:13:05 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:13:09 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:13:09 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[03-Apr-2022 11:13:13 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[13-Apr-2022 00:49:47 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[13-Apr-2022 00:49:47 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[13-Apr-2022 00:50:02 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[13-Apr-2022 00:50:05 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[13-Apr-2022 00:50:05 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[13-Apr-2022 00:50:09 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[13-Apr-2022 00:50:09 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[13-Apr-2022 00:50:12 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[13-Apr-2022 00:50:14 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[27-May-2022 22:47:03 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[27-May-2022 22:47:04 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/input_view.php on line 19
+[27-May-2022 22:51:44 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:51:44 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:05 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:05 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:06 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:06 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:23 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:23 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:29 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:29 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:30 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:31 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:33 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:33 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:53 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:53:53 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:54:08 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:54:08 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:54:57 Asia/Tokyo] PHP Warning:  include_once(../views/confirm_view.php): Failed to open stream: No such file or directory in /var/www/html/controllers/confirm.php on line 7
+[27-May-2022 22:54:57 Asia/Tokyo] PHP Warning:  include_once(): Failed opening '../views/confirm_view.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/controllers/confirm.php on line 7
+[27-May-2022 22:54:57 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:55:15 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:55:18 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:55:18 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:55:20 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:55:21 Asia/Tokyo] PHP Warning:  include_once(../views/contact_view.php): Failed to open stream: No such file or directory in /var/www/html/controllers/contact.php on line 12
+[27-May-2022 22:55:21 Asia/Tokyo] PHP Warning:  include_once(): Failed opening '../views/contact_view.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/controllers/contact.php on line 12
+[27-May-2022 22:55:21 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:55:35 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[27-May-2022 22:55:38 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 09:52:07 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 09:52:07 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:02:30 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:02:31 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:02:32 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:02:32 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:04:42 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:04:42 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:07:31 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:07:31 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:07:46 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:07:47 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:08:27 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:08:27 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:08:45 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:08:45 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:09:13 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:09:13 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:15:05 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:15:05 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:15:07 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:15:08 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:15:50 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:15:50 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:16:13 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:16:13 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:16:26 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:16:26 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:17:22 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:17:22 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:17:28 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:17:28 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:17:29 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:17:29 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:17:36 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:17:36 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:17:47 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:18:07 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:18:07 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:19:57 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:19:58 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:19:58 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:19:59 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:19:59 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:19:59 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:19:59 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:19:59 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:20:00 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:20:00 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:20:44 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:20:44 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:20:46 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:20:47 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:20:55 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:20:55 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:21:56 Asia/Tokyo] PHP Warning:  Undefined variable $post in /var/www/html/views/form.php on line 1
+[28-May-2022 10:21:56 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:21:56 Asia/Tokyo] PHP Warning:  Undefined variable $post in /var/www/html/views/form.php on line 1
+[28-May-2022 10:21:56 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:22:13 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:22:13 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:23:45 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:23:46 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:23:49 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:23:51 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:23:51 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[28-May-2022 10:25:01 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:25:01 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:25:35 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:31:52 Asia/Tokyo] PHP Fatal error:  Cannot redeclare insertContact() (previously declared in /var/www/html/controllers/contact.php:13) in /var/www/html/model/model.php on line 84
+[28-May-2022 10:31:52 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:32:08 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:35:26 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:35:28 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:35:28 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:35:30 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:35:31 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/views/contact.php on line 8
+[28-May-2022 10:35:31 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/model/model.php on line 4
+[28-May-2022 10:35:31 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/views/contact.php on line 18
+[28-May-2022 10:35:31 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/model/model.php on line 4
+[28-May-2022 10:35:31 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 10:37:16 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 11:02:53 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 11:02:56 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Class "Smarty" not found in /var/www/html/controllers/contact.php:24
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/controllers/contact.php on line 24
+[28-May-2022 11:02:56 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 11:04:26 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[28-May-2022 11:04:28 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 21:58:21 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 21:58:22 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:06:49 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:06:51 Asia/Tokyo] PHP Warning:  Undefined array key "phone" in /var/www/html/controllers/contact.php on line 10
+[30-May-2022 22:06:52 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:07:26 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:37:03 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:37:03 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:37:47 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:37:51 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:39:54 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:39:56 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:45:51 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:53:10 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:53:11 Asia/Tokyo] PHP Warning:  Undefined variable $subject in /var/www/html/views/contact.php on line 1
+[30-May-2022 22:53:11 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:53:35 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:56:23 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:56:23 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:56:23 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:56:25 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:56:26 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:57:13 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 22:57:15 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:08:22 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:08:23 Asia/Tokyo] PHP Parse error:  syntax error, unexpected identifier "ja" in /var/www/html/controllers/contact.php on line 16
+[30-May-2022 23:08:23 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:08:36 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:19:27 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:19:28 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:27:45 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:27:47 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:28:14 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:28:16 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:29:39 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:29:42 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:30:04 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:30:05 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:30:25 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[30-May-2022 23:30:28 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:29:11 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:33:49 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:35:33 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:35:35 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:37:48 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:37:58 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:38:32 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:38:56 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:39:12 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:39:19 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 19
+[02-Jun-2022 15:40:01 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[02-Jun-2022 15:40:41 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[02-Jun-2022 15:41:25 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[02-Jun-2022 15:41:53 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[02-Jun-2022 15:41:54 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[02-Jun-2022 15:42:12 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
+[02-Jun-2022 15:42:50 Asia/Tokyo] PHP Warning:  Undefined array key "csrf_token" in /var/www/html/views/form.php on line 20
